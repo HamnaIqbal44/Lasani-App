@@ -1,4 +1,4 @@
 # Lasani-App
 Creating a Lasani App.
 <br>
-Author-Hamna Iqbal
+Author-Hamna Iqbal (SE Student)
